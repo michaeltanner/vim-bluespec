@@ -1,4 +1,4 @@
-**All sources from the Bluespec-provided installation packages**
+**All these source files are from the Bluespec-provided installation package**
 
 A basic BSV syntax highlighing mode for the vi clone VIM
 (http://www.vim.org).  The mode is mostly written from scratch, with
